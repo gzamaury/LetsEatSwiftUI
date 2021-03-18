@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		96AF92B2260407DB009F1621 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96AF92B1260407DB009F1621 /* CircleImage.swift */; };
 		96E90D402602E04200078FCC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E90D3F2602E04200078FCC /* AppDelegate.swift */; };
 		96E90D422602E04200078FCC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E90D412602E04200078FCC /* SceneDelegate.swift */; };
 		96E90D442602E04200078FCC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E90D432602E04200078FCC /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		96AF92B1260407DB009F1621 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		96E90D3C2602E04200078FCC /* LetsEatSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LetsEatSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		96E90D3F2602E04200078FCC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		96E90D412602E04200078FCC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		96E90D3E2602E04200078FCC /* LetsEatSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				96AF92B1260407DB009F1621 /* CircleImage.swift */,
 				96E90D3F2602E04200078FCC /* AppDelegate.swift */,
 				96E90D412602E04200078FCC /* SceneDelegate.swift */,
 				96E90D432602E04200078FCC /* ContentView.swift */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96E90D402602E04200078FCC /* AppDelegate.swift in Sources */,
+				96AF92B2260407DB009F1621 /* CircleImage.swift in Sources */,
 				96E90D422602E04200078FCC /* SceneDelegate.swift in Sources */,
 				96E90D442602E04200078FCC /* ContentView.swift in Sources */,
 			);
